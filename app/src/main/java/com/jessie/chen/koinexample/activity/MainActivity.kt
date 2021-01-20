@@ -17,7 +17,10 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
-
+        namingDemoButton.setOnClickListener {
+            val intent = Intent(this@MainActivity, NamingDemoActivity::class.java)
+            startActivity(intent)
+        }
 
 
 

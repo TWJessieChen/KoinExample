@@ -12,6 +12,8 @@ val speciesCreatureModule = module {
 
     single {
         Cat()
+        Dog()
+        Godzilla()
     }
 
 

@@ -20,6 +20,9 @@
 
         <activity android:name=".activity.ScopeDemoActivity" />
 
+        <activity android:name=".activity.NamingDemoActivity" />
+
+
     </application>
 
 </manifest>
